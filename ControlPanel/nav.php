@@ -32,12 +32,12 @@
 
 			        <li><a href="faculty.php"><i class="fa fa-dashboard fa-3x"></i> Faculty</a></li>
 			          <!-- 
-
+ -->
                     <li><a  href="news.php"><i class="fa fa-desktop fa-3x"></i> News</a></li>
                   
                     <li><a  href="gallery.php"><i class="fa fa-qrcode fa-3x"></i> Gallery</a></li>
                   
-				 -->
+				
 					<li><a  href="logout.php"><i class="fa fa-edit fa-3x"></i> Logout</a></li>
 
                         
