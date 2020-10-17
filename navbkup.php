@@ -83,7 +83,6 @@
 							echo "</ul>";
 							echo "</li>";
 							echo "<li><a href='committees.php'>Committees</a></li>";
-							echo "<li><a href='gallery.php'>Gallery</a></li>";
 							echo "<li><a href='contactus.php'>Contact Us</a></li>";
 							}
 					if($pageName == "intro.php" || $pageName == "aboutdkkkp.php" || $pageName == "presidentsmessage.php" || $pageName == "secretarymessage.php" || $pageName == "ceomessage.php" || $pageName == "principalmessage.php" || $pageName == "missionvision.php")
@@ -120,7 +119,6 @@
 							echo "</ul>";
 							echo "</li>";
 							echo "<li><a href='committees.php'>Committees</a></li>";
-							echo "<li><a href='gallery.php'>Gallery</a></li>";
 							echo "<li><a href='contactus.php'>Contact Us</a></li>";
 							}
 					 if($pageName == "teaching.php" || $pageName == "nonteaching.php" || $pageName == "supporting.php" || $pageName == "career.php")
@@ -157,7 +155,6 @@
 							echo "</ul>";
 							echo "</li>";
 							echo "<li><a href='committees.php'>Committees</a></li>";
-							echo "<li><a href='gallery.php'>Gallery</a></li>";
 							echo "<li><a href='contactus.php'>Contact Us</a></li>";
 							}	
 					if($pageName == "committees.php")
@@ -194,7 +191,6 @@
 							echo "</ul>";
 							echo "</li>";
 							echo "<li class='active'><a href='committees.php'>Committees</a></li>";
-							echo "<li><a href='gallery.php'>Gallery</a></li>";
 							echo "<li><a href='contactus.php'>Contact Us</a></li>";
 							}	
 					if($pageName == "courses.php")
@@ -231,7 +227,6 @@
 							echo "</ul>";
 							echo "</li>";
 							echo "<li><a href='committees.php'>Committees</a></li>";
-							echo "<li><a href='gallery.php'>Gallery</a></li>";
 							echo "<li><a href='contactus.php'>Contact Us</a></li>";
 							}	
 					if($pageName == "contactus.php")
@@ -268,46 +263,8 @@
 							echo "</ul>";
 							echo "</li>";
 							echo "<li><a href='committees.php'>Committees</a></li>";
-							echo "<li><a href='gallery.php'>Gallery</a></li>";
 							echo "<li class='active'><a href='contactus.php'>Contact Us</a></li>";
 							}
-					if($pageName == "gallery.php")
-							{
-							echo "<li><a href='index.php'>Home</a></li>";
-							echo "<li><a href='#'>About Us</a>";
-								echo "<ul class='dropdown-menu'>";
-									
-									echo "<li><a href='aboutdkkkp.php'><img src='images/arrow.png' border='0'>About DKKKP</a></li>";
-									echo "<li><a href='presidentsmessage.php'><img src='images/arrow.png' border='0'>President Message</a></li>";
-									echo "<li><a href='secretarymessage.php'><img src='images/arrow.png' border='0'>Secretary Message</a></li>";
-									echo "<li><a href='ceomessage.php'><img src='images/arrow.png' border='0'>CEO Message</a></li>";
-									echo "<li><a href='principalmessage.php'><img src='images/arrow.png' border='0'>Principal Message</a></li>";
-									echo "<li><a href='missionvision.php'><img src='images/arrow.png' border='0'>Mision and Vision</a></li>";
-								echo "</ul>";
-							echo "</li>";
-							echo "<li><a href='#'>Faculty</a>";
-								echo "<ul class='dropdown-menu'>";
-									echo "<li><a href='teaching.php'><img src='images/arrow.png' border='0'>Teaching Staff</a>";
-									echo "<li><a href='nonteaching.php'><img src='images/arrow.png' border='0'>Non Teaching  Staff</a></li>";
-									echo "<li><a href='supporting.php'><img src='images/arrow.png' border='0'>Supporting Staff</a></li>";
-								echo "</ul>";
-							echo "</li>";
-							echo "<li><a href='courses.php'>Courses</a></li>";
-							echo "<li><a href='#'>Facilities</a>";
-							echo "<ul class='dropdown-menu'>";
-									echo "<li><a href='labs.php'><img src='images/arrow.png' border='0'>Laboratories</a></li>";
-									echo "<li><a href='computerlab.php'><img src='images/arrow.png' border='0'>Computer Lab</a></li>";
-									echo "<li><a href='library.php'><img src='images/arrow.png' border='0'>Library</a></li>";
-									echo "<li><a href='guesthouse.php'><img src='images/arrow.png' border='0'>Guest House</a></li>";
-									echo "<li><a href='boyshostel.php'><img src='images/arrow.png' border='0'>Boys Hostel</a></li>";
-									echo "<li><a href='transport.php'><img src='images/arrow.png' border='0'>Transport</a></li>";	
-									echo "<li><a href='canteen.php'><img src='images/arrow.png' border='0'>Mess and Canteen</a></li>";	
-							echo "</ul>";
-							echo "</li>";
-							echo "<li><a href='committees.php'>Committees</a></li>";
-							echo "<li class='active'><a href='gallery.php'>Gallery</a></li>";
-							echo "<li><a href='contactus.php'>Contact Us</a></li>";
-							}		
 					if($pageName == "labs.php" || $pageName == "computerlab.php" || $pageName == "boyshostel.php" || $pageName == "library.php" || $pageName == "guesthouse.php" || $pageName == "transport.php" || $pageName == "canteen.php")
 							{
 							echo "<li><a href='index.php'>Home</a></li>";
@@ -342,7 +299,6 @@
 							echo "</ul>";
 							echo "</li>";
 							echo "<li><a href='committees.php'>Committees</a></li>";
-							echo "<li><a href='gallery.php'>Gallery</a></li>";
 							echo "<li><a href='contactus.php'>Contact Us</a></li>";
 							}
 					?>		
