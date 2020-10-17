@@ -176,7 +176,7 @@ $log = new MyLogPHP('logs/logs.log');
 				mysqli_query($con,$gallery_delete) or die(mysql_error());
 				$log->info("Gallery  Data Deleted");
 				$message="DKKKPPGS.COM :: 1 Photo Deleted";
-                sendWay2Sms($message);
+
 				?>
 				
 				<script type="text/javascript">
