@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$username = "dkkkpmba_pharmacy";
+$username = "kasturic_dkkkp";
 $password = "Kasturi254@#$";
-$dbName = "dkkkpmba_pharmacy";
+$dbName = "kasturic_dkkkppharmacy";
 
 
 // Create connection
