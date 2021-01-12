@@ -82,7 +82,7 @@
 								
 								<ul class="widget_info_contact">
 									<li><i class="fa fa-map-marker"></i> <p><strong>Address</strong>: A/P-Kalamb-Walchandnagar,Tal : Indapur Dist : Pune,Pin Code:413114</p></li>
-									<li><i class="fa fa-user"></i> <p><strong>Phone</strong>:02118-253220/254720</p></li>
+									<li><i class="fa fa-user"></i> <p><strong>Phone</strong>:+91 7066307777 / 7972404918</p></li>
 									<li><i class="fa fa-envelope"></i> <p><strong>Email</strong>: <a href="#">pharmacy.kalamb@phadtarepharmacy.org,<br>dnyankala20@gmail.com</a></p></li>
 									<li><i class="fa fa-globe"></i> <p><strong>Web</strong>: <a href="#" data-placement="bottom" data-toggle="tooltip" title="www.dkkkppgs.com">www.phadtarepharmacy.org</a></p></li>
 								</ul>
