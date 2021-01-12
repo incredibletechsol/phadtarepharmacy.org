@@ -1,11 +1,10 @@
-
 <!--Start Header-->
 	<header id="header" class="clearfix">
         <div id="top-bar">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-7 hidden-xs top-info">
-                        <span><i class="fa fa-phone"></i>Phone: 02118 - 253220/254720</span>
+                        <span><i class="fa fa-phone"></i>Phone: +91 7066307777 / 7972404918</span>
                         <span><i class="fa fa-envelope"></i>Email: pharmacy.kalamb@phadtarepharmacy.org,dnyankala20@gmail.com</span>
                     </div>
 					<!--
@@ -27,7 +26,7 @@
                    <!-- Logo / Mobile Menu -->
                    <div class="col-xs-12">
                        <div id="logo">
-                           <h1><a href="index.php"><img src="images/logo.png" alt="Eve" /></a></h1>
+                           <a href="index.php"><img src="images/logo.png" class="myimg" /></a>
                        </div>
                    </div>
                </div>
