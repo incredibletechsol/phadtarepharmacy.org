@@ -26,7 +26,7 @@
                    <!-- Logo / Mobile Menu -->
                    <div class="col-xs-12">
                        <div id="logo">
-                           <a href="index.php"><img src="images/logo.png" class="myimg" /></a>
+                           <a href="index.php"><img src="images/logo.png" /></a>
                        </div>
                    </div>
                </div>
