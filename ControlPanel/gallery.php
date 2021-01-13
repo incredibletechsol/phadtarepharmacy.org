@@ -155,7 +155,7 @@
 					{
 					$count=$noofphotos_row[0];
 					}
-				if($count < 10) {		
+				if($count < 50) {		
 				?>
 				<div class="col-md-6 col-sm-12 col-xs-12">                     
 					<div class="panel panel-default">
@@ -203,7 +203,7 @@
 							<b>Add New Photos</b>
 						</div>
 						<div class="panel-body">
-							<h3>You can upload Maximum 10 Photos.</h3>
+							<h3>You can upload Maximum 50 Photos.</h3>
 						</div>
 					</div>            
 				</div> 	
