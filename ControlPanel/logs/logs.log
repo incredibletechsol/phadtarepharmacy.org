@@ -44,3 +44,27 @@
 "2020-10-13 12:44:57",INFO,--,"News Data inserted",99,/home/dkkkpmba/public_html/phadtarepharmacy.org/ControlPanel/newsactions.php
 "2020-10-13 14:25:28",INFO,--,"Deleting News Data :::delete from tbl_news where id='13'",196,/home/dkkkpmba/public_html/phadtarepharmacy.org/ControlPanel/newsactions.php
 "2020-10-13 14:25:28",INFO,--,"News Data Deleted",198,/home/dkkkpmba/public_html/phadtarepharmacy.org/ControlPanel/newsactions.php
+"2021-01-12 07:27:40",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('Capture.PNG','Test')",74,/home/kasturic/public_html/Websites/phadtarepharmacy.org/ControlPanel/galleryactions.php
+"2021-01-12 07:27:40",INFO,--,"Gallery Data inserted",78,/home/kasturic/public_html/Websites/phadtarepharmacy.org/ControlPanel/galleryactions.php
+"2021-01-12 07:27:53",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='1'",175,/home/kasturic/public_html/Websites/phadtarepharmacy.org/ControlPanel/galleryactions.php
+"2021-01-12 07:27:53",INFO,--,"Gallery Data Deleted",177,/home/kasturic/public_html/Websites/phadtarepharmacy.org/ControlPanel/galleryactions.php
+"2021-01-13 10:27:41",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-01-13','test','sdsddsdsdddssd','','')",95,/home/kasturic/public_html/Websites/phadtarepharmacy.org/ControlPanel/newsactions.php
+"2021-01-13 10:27:41",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/phadtarepharmacy.org/ControlPanel/newsactions.php
+"2021-01-13 10:28:22",INFO,--,"Deleting News Data :::delete from tbl_news where id='1'",196,/home/kasturic/public_html/Websites/phadtarepharmacy.org/ControlPanel/newsactions.php
+"2021-01-13 10:28:22",INFO,--,"News Data Deleted",198,/home/kasturic/public_html/Websites/phadtarepharmacy.org/ControlPanel/newsactions.php
+"2021-01-30 10:56:14",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-01-30','student registration','All the student add detail information by using link https://dgpm.nic.in/3077/stud_registration.do','','')",95,/home/kasturic/public_html/Websites/phadtarepharmacy.org/ControlPanel/newsactions.php
+"2021-01-30 10:56:14",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/phadtarepharmacy.org/ControlPanel/newsactions.php
+"2021-01-30 10:58:00",INFO,--,"Deleting News Data :::delete from tbl_news where id='2'",196,/home/kasturic/public_html/Websites/phadtarepharmacy.org/ControlPanel/newsactions.php
+"2021-01-30 10:58:00",INFO,--,"News Data Deleted",198,/home/kasturic/public_html/Websites/phadtarepharmacy.org/ControlPanel/newsactions.php
+"2021-02-03 08:51:51",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2020-12-29','D. Pharmacy Admission 2020-21','Applications are invited under the Institute Level Seats & Against CAP Seats.','Against CAP Advertise.pdf','')",95,/home/kasturic/public_html/Websites/phadtarepharmacy.org/ControlPanel/newsactions.php
+"2021-02-03 08:51:51",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/phadtarepharmacy.org/ControlPanel/newsactions.php
+"2021-02-03 09:29:38",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-01-05','D. Pharmacy Admission 2020-21','Merit list of D.Pharm admission against CAP seats','D. Pharm Merit List.jpg','')",95,/home/kasturic/public_html/Websites/phadtarepharmacy.org/ControlPanel/newsactions.php
+"2021-02-03 09:29:38",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/phadtarepharmacy.org/ControlPanel/newsactions.php
+"2021-02-03 09:58:01",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-01-22','B. Pharmacy Admission 2020-21','Applications are invited under the Institute Level Seats & Against CAP Seats.','Sakal Add.jpg','')",95,/home/kasturic/public_html/Websites/phadtarepharmacy.org/ControlPanel/newsactions.php
+"2021-02-03 09:58:01",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/phadtarepharmacy.org/ControlPanel/newsactions.php
+"2021-02-03 09:58:57",INFO,--,"Deleting News Data :::delete from tbl_news where id='5'",196,/home/kasturic/public_html/Websites/phadtarepharmacy.org/ControlPanel/newsactions.php
+"2021-02-03 09:58:57",INFO,--,"News Data Deleted",198,/home/kasturic/public_html/Websites/phadtarepharmacy.org/ControlPanel/newsactions.php
+"2021-02-03 10:13:32",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-01-22','B. Pharmacy Admission 2020-21','Applications are invited to B. Pharmacy Admission 2020-21 under the Institute Level Seats & Against CAP Seats. ','Advt. (1).pdf','Sakal Add.jpg')",95,/home/kasturic/public_html/Websites/phadtarepharmacy.org/ControlPanel/newsactions.php
+"2021-02-03 10:13:32",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/phadtarepharmacy.org/ControlPanel/newsactions.php
+"2021-02-18 05:46:59",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-02-03','B. Pharmacy Admission 2020-21','Merit list of D.Pharm admission against CAP seats','B. Pharm Merit List.jpg','')",95,/home/kasturic/public_html/Websites/phadtarepharmacy.org/ControlPanel/newsactions.php
+"2021-02-18 05:46:59",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/phadtarepharmacy.org/ControlPanel/newsactions.php
